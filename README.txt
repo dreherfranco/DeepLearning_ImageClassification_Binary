@@ -1,0 +1,1 @@
+Descargar Model inception de tensorflow, el mismo debe estar en la carpeta inception contenida en assets https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip
